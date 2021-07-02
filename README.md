@@ -1,32 +1,17 @@
 ## Welcome to Meteor Sapport Site
 
-You can use the [editor on GitHub](https://github.com/Risono/Meteor-project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[ 作者について ]  
+定年退職後に基本一人でゲームを開発しています。
+Meteorは初めての作品です。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ [Jekyll](https://jekyllrb.com/)
 
-### Markdown
+### Privacy Policy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[ 利用者情報の取得 ]
+本アプリが利用者の個人情報を取得することはありません。 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
