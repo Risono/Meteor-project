@@ -7,7 +7,7 @@
 [ 作者について ]  
 定年退職後に勉強を始めたUnityを使って一人でゲームを開発しています。
 Meteorは初めての作品です。
-<img src="/docs/images/Twitter social icons - rounded square - blue.png" alt="Twitter" width="20" height="20">
+![Twitter](docs/images/Twitter social icons - rounded square - blue.png)
 
 ## Privacy Policy
 #### プライバシーポリシー
