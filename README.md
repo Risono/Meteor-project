@@ -7,7 +7,6 @@
 [ 作者について ]  
 定年退職後に勉強を始めたUnityを使って一人でゲームを開発しています。
 Meteorは初めての作品です。
-![Twitter](https://github.com/Risono/Meteor-project/blob/main/docs/images/Twitter%20social%20icons%20-%20rounded%20square%20-%20blue.png)
 
 ## Privacy Policy
 #### プライバシーポリシー
