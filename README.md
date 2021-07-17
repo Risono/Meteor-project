@@ -23,6 +23,9 @@ Meteorは初めての作品です。
 ## Link
 ### リンク
 
-* [Matthew Holtzem Unity-2D-Destruction](https://github.com/mjholtzem/Unity-2D-Destruction)
+* With my feelings of gratitude -  
+[mjholtzem/Unity-2D-Destruction](https://github.com/mjholtzem/Unity-2D-Destruction) is used to make this game.
+[The MIT License (MIT)
+Copyright (c) 2016 Matthew Holtzem](https://github.com/mjholtzem/Unity-2D-Destruction/blob/master/LICENSE)
 
-* <a href="https://twitter.com/home"><img src="docs/images/Twitter social icons - rounded square - blue.png" alt="Twitter" width="30" height="30"> </a>
+* <a href="https://twitter.com/home"><img src="docs/images/Twitter social icons - rounded square - blue.png" alt="Twitter" width="20" height="20"> </a> (サポート)
