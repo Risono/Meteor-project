@@ -22,7 +22,6 @@ Meteorは初めての作品です。
 
 ## DownLoad
 ### ダウンロード
-### 
 #### iPhoneはこちら
 <a href="https://apps.apple.com/jp/app/meteor/id1561901864?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 235px; height: 80px; margin:16px; background-size:contain;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1626825600&h=6958afb9bdf247e7f172d176cbffef3b" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 235px; height: 80px; margin:0px; background-size:contain;"></a> 
 
