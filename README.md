@@ -1,4 +1,4 @@
-<img src="" alt="Meteorのアイコン" title="アイコン" width=70>
+<img src="https://github.com/Risono/Meteor-project/blob/main/docs/images/meteoricon_GooglePlay512x512.png?raw=true" alt="Meteorのアイコン" title="アイコン" width=70>
 
 #
 # Welcome to Meteor
