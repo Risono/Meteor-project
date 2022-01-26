@@ -37,3 +37,5 @@
 Copyright (c) 2016 Matthew Holtzem](https://github.com/mjholtzem/Unity-2D-Destruction/blob/master/LICENSE)
 
 * <a href="https://twitter.com/daikuya_ri"><img src="docs/images/Twitter social icons - rounded square - blue.png" alt="Twitter" width="20" height="20"> </a> (サポート)
+
+* <a href="https://risono.github.io/PuzzlePanda-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/PuzzlePanda256x256.png?raw=true" alt="PuzzlePanda" width="20" height="20"> </a> (Puzzle Game)
