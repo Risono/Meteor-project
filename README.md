@@ -24,9 +24,11 @@
 #### iPhoneはこちら
 <a href="https://apps.apple.com/jp/app/meteor/id1561901864?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 235px; height: 80px; margin:16px; background-size:contain;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1626825600&h=6958afb9bdf247e7f172d176cbffef3b" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 235px; height: 80px; margin:0px; background-size:contain;"></a> 
 
-#### Androidはこちら
-<a href='https://play.google.com/store/apps/details?id=com.Daikuya.Meteor&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/us-en/badges/static/images/badges/en_badge_web_generic.png' width='270px' height='115px'/></a>
+#### Androidは公開停止中
 
+<!-- #### Androidはこちら
+<a href='https://play.google.com/store/apps/details?id=com.Daikuya.Meteor&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/us-en/badges/static/images/badges/en_badge_web_generic.png' width='270px' height='115px'/></a>
+-->
 
 ## Link
 ### リンク
